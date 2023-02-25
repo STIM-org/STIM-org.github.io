@@ -80,8 +80,8 @@ style = "default"
 	weight = 4
 
 [params]
-	logo = "img/STIM.png"
-	logo_small = "img/STIM.png"
+	logo = "img/stim_landsc.png"
+	logo_small = "img/stim_landsc.png"
 	contact_url = "/contact"
 	mainSections = ["members", "olimp", "projects"]
 
