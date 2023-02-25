@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://STIM-org.gitub.io/'
 languageCode = 'ro'
 title = 'Asociația ȘTIM'
 theme = "hugo-universal-theme"
