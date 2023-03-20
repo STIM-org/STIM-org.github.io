@@ -1,6 +1,6 @@
 +++
 title = "Rezultate"
-draft = false
+draft = true
 +++
 
 ## Title

@@ -19,17 +19,17 @@ style = "default"
 	identifier = "menu.home"
 	weight = 1
 
-[[menu.main]]
-	name = "Donează"
-	url = "/donate"
-	weight = 2
-	identifier = "menu.donate"
+#[[menu.main]]
+	#name = "Donează"
+	#url = "/donate"
+	#weight = 2
+	#identifier = "menu.donate"
 
-[[menu.main]]
-	name = "Evenimente"
-	url = "/events"
-	weight = 3
-	identifier = "menu.events"
+#[[menu.main]]
+	#name = "Evenimente"
+	#url = "/events"
+	#weight = 3
+	#identifier = "menu.events"
 
 [[menu.main]]
 	name = "Contact"
@@ -43,41 +43,42 @@ style = "default"
 	url = "/members"
 	weight = 1
 
-[[menu.main]]
-	name = "Scop"
-	parent = "menu.home"
-	url = "/purpouse"
-	weight = 2
+#[[menu.main]]
+	#name = "Scop"
+	#parent = "menu.home"
+	#url = "/purpouse"
+	#weight = 2
+	#draft = true
 
-[[menu.main]]
-	name = "Istoric"
-	parent = "menu.home"
-	url = "/history"
-	weight = 3
+#[[menu.main]]
+	#name = "Istoric"
+	#parent = "menu.home"
+	#url = "/history"
+	#weight = 3
 
-[[menu.main]]
-	name = "Pagini Personale"
-	parent = "menu.home"
-	url = "/pages"
-	weight = 4
+#[[menu.main]]
+	#name = "Pagini Personale"
+	#parent = "menu.home"
+	#url = "/pages"
+	#weight = 4
 
-[[menu.main]]
-	name = "Proiecte"
-	parent = "menu.events"
-	url = "/projects"
-	weight = 1
+#[[menu.main]]
+	#name = "Proiecte"
+	#parent = "menu.events"
+	#url = "/projects"
+	#weight = 1
 
-[[menu.main]]
-	name = "Media"
-	parent = "menu.events"
-	url = "/media"
-	weight = 2
+#[[menu.main]]
+	#name = "Media"
+	#parent = "menu.events"
+	#url = "/media"
+	#weight = 2
 
-[[menu.main]]
-	name = "Olimpiade"
-	parent = "menu.events"
-	url = "/olimp"
-	weight = 4
+#[[menu.main]]
+	#name = "Olimpiade"
+	#parent = "menu.events"
+	#url = "/olimp"
+	#weight = 4
 
 [params]
 	logo = "img/stim_landsc.png"
@@ -87,9 +88,9 @@ style = "default"
 
 [params.topbar]
 	enable = true
-	text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+	text = """<p class="hidden-sm hidden-xs">Contact us on contact@stimorg.com.</p>
 	<p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-	<a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+	<a href="mailto:contact@stimorg.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
 	</p>
 	"""
 
@@ -130,9 +131,9 @@ style = "default"
 
 [[menu.topbar]]
 	weight = 4
-	name = "Twitter"
+	name = "Instagram"
 	url = "http://twitter.com"
-	pre = "<i class='fab fa-2x fa-twitter'></i>"
+	pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
 	weight = 5

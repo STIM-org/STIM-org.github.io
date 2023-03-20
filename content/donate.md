@@ -1,6 +1,6 @@
 +++
 title = "Donează"
-draft = false
+draft = true
 +++
 
 {{< attachments title="single file example" style="info" >}}

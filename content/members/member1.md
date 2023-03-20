@@ -1,6 +1,6 @@
 +++
 title = "Nume membru 1"
-draft = false
+draft = true
 banner = "img/STIM.png"
 +++
 

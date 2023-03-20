@@ -1,4 +1,4 @@
 +++
 title = "Proiecte"
-draft = false
+draft = true
 +++

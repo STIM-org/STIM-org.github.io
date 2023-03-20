@@ -1,4 +1,4 @@
 +++
 title = "Istoric"
-draft = false
+draft = true
 +++
