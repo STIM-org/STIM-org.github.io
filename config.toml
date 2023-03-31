@@ -37,11 +37,11 @@ style = "default"
 	weight = 4
 	identifier = "menu.contact"
 
-[[menu.main]]
-	name = "Membrii"
-	parent = "menu.home"
-	url = "/members"
-	weight = 3
+#[[menu.main]]
+	#name = "Membrii"
+	#parent = "menu.home"
+	#url = "/members"
+	#weight = 3
 
 [[menu.main]]
 	name = "Scop"
