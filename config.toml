@@ -120,19 +120,13 @@ style = "default"
 [[menu.topbar]]
 	weight = 2
 	name = "Facebook"
-	url = "http://facebook.com"
+	url = "https://www.facebook.com/profile.php?id=100091323421263"
 	pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
 	weight = 3
 	name = "Instagram"
-	url = "http://instagram.com"
-	pre = "<i class='fab fa-2x fa-instagram'></i>"
-
-[[menu.topbar]]
-	weight = 4
-	name = "Instagram"
-	url = "http://twitter.com"
+	url = "https://www.instagram.com/asociatia_stim/"
 	pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
