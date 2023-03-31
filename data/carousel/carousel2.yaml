@@ -1,9 +1,9 @@
 weight: 2
-title: "Easy to customize"
+title: "Contract de Sponsorizare"
 description: >
   <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
+  <li>Crează un contract de sponsorizare cu organizația STIM!</li>
+  <li>Click aici:</li>
   </ul>
 image: "img/STIM.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+href: "assets/files/Contract_Sponsorizare_Asociatia_STIM.pdf"

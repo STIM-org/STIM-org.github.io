@@ -119,15 +119,15 @@ style = "default"
 
 [[menu.topbar]]
 	weight = 2
-	name = "GitHub"
-	url = "https://github.com/devcows/hugo-universal-theme"
-	pre = "<i class='fab fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-	weight = 3
 	name = "Facebook"
 	url = "http://facebook.com"
 	pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+	weight = 3
+	name = "Instagram"
+	url = "http://instagram.com"
+	pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
 	weight = 4
@@ -138,7 +138,7 @@ style = "default"
 [[menu.topbar]]
 	weight = 5
 	name = "Email"
-	url = "mailto:hello@universal.com"
+	url = "mailto:contact@stimorg.com"
 	pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params.see_more]
