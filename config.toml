@@ -41,14 +41,13 @@ style = "default"
 	name = "Membrii"
 	parent = "menu.home"
 	url = "/members"
-	weight = 1
+	weight = 3
 
-#[[menu.main]]
-	#name = "Scop"
-	#parent = "menu.home"
-	#url = "/purpouse"
-	#weight = 2
-	#draft = true
+[[menu.main]]
+	name = "Scop"
+	parent = "menu.home"
+	url = "/purpouse"
+	weight = 2
 
 #[[menu.main]]
 	#name = "Istoric"
@@ -89,7 +88,6 @@ style = "default"
 [params.topbar]
 	enable = true
 	text = """<p class="hidden-sm hidden-xs">Contact us on contact@stimorg.com.</p>
-	<p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
 	<a href="mailto:contact@stimorg.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
 	</p>
 	"""
@@ -139,20 +137,20 @@ style = "default"
 	enable = true
 	icon = "far fa-file-alt"
 	title = "Află mai multe"
-	subtitle = "TODO"
-	link_url = "#"
-	link_text = "TODO"
+	subtitle = "<strong>Asociația ȘTIM vrea să adune într-o comunitate pe toți foștii, actualii și viitorii olimpici naționali ai țării alături de profesorii ce au fost alături de ei.</strong>"
+	link_url = "purpouse/"
+	link_text = "Despre noi"
 
 [params.clients]
 	enable = true
 	title = "Our Clients"
 	subtitle = ""
 
-[params.recent_posts]
-	enable = true
-	title = "From our blog"
-	subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-	hide_summary = false
+#[params.recent_posts]
+	#enable = true
+	#title = "From our blog"
+	#subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+	#hide_summary = false
 
 [params.footer.recent_posts]
 	enable = true
