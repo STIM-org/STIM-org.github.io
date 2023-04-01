@@ -137,7 +137,7 @@ style = "default"
 	enable = true
 	icon = "far fa-file-alt"
 	title = "Află mai multe"
-	subtitle = "<strong>Asociația ȘTIM vrea să adune într-o comunitate pe toți foștii, actualii și viitorii olimpici naționali ai țării alături de profesorii ce au fost alături de ei.</strong>"
+	subtitle = "<strong>Asociația ȘTIM vrea să adune într-o comunitate pe toți foștii, actualii și viitorii olimpici naționali ai țării dar și pe profesorii ce au fost alături de ei.</strong>"
 	link_url = "purpouse/"
 	link_text = "Despre noi"
 
