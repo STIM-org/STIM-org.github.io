@@ -87,9 +87,7 @@ style = "default"
 
 [params.topbar]
 	enable = true
-	text = """<p class="hidden-sm hidden-xs">Contact us on contact@stimorg.com.</p>
-	<a href="mailto:contact@stimorg.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-	</p>
+	text = """<p class="hidden-sm hidden-xs">Contact us on 0786 355 555 or contact@stimorg.com.</p>
 	"""
 
 [params.widgets]
@@ -114,6 +112,12 @@ style = "default"
 	auto_play = true
 	slide_speed = 2000
 	pagination_speed = 1000
+
+[[menu.topbar]]
+	weight = 1
+	name = "Phone"
+	url = "tel:0786 355 555"
+	pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
 	weight = 2
