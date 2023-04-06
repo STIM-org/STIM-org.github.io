@@ -25,11 +25,11 @@ style = "default"
 	#weight = 2
 	#identifier = "menu.donate"
 
-#[[menu.main]]
-	#name = "Evenimente"
-	#url = "/events"
-	#weight = 3
-	#identifier = "menu.events"
+[[menu.main]]
+	name = "Evenimente"
+	url = "/events"
+	weight = 3
+	identifier = "menu.events"
 
 [[menu.main]]
 	name = "Contact"
@@ -73,11 +73,11 @@ style = "default"
 	#url = "/media"
 	#weight = 2
 
-#[[menu.main]]
-	#name = "Olimpiade"
-	#parent = "menu.events"
-	#url = "/olimp"
-	#weight = 4
+[[menu.main]]
+	name = "Olimpiade"
+	parent = "menu.events"
+	url = "/olimp"
+	weight = 4
 
 [params]
 	logo = "img/stim_landsc.png"
