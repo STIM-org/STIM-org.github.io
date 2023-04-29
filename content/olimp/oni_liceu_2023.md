@@ -2,6 +2,7 @@
 title = "Olimpiada Națională de Informatică - Liceu - 2023"
 draft = false
 banner = "img/STIM-ONF5.JPG"
+weight = 100
 +++
 
 ## Olimpiada Națională de Informatică - Liceu - 2023
