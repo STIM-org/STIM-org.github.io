@@ -5,7 +5,7 @@ banner = "img/STIM-Onicescu.jpg"
 weight = 100
 +++
 
-Concursul `Octav Onicescu` stimulează potențialul creativ al elevilor prin desfășurarea unei probe interdisciplinară, individuală, ce constă în rezolvarea unor probleme de matematică și fizică.
+Concursul `Octav Onicescu` stimulează potențialul creativ al elevilor prin desfășurarea unei probe interdisciplinare, individuală, ce constă în rezolvarea unor probleme de matematică și fizică.
 
 {{< gallery cols=3 >}}
 - /img/STIM-Onicescu.jpg
