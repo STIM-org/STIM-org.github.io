@@ -1,4 +1,4 @@
 +++
-title = "Olimpiade și Concursuri"
+title = "Olimpiade"
 draft = false
 +++
