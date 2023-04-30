@@ -49,11 +49,11 @@ style = "default"
 	url = "/purpouse"
 	weight = 2
 
-#[[menu.main]]
-	#name = "Istoric"
-	#parent = "menu.home"
-	#url = "/history"
-	#weight = 3
+[[menu.main]]
+	name = "Istoric"
+	parent = "menu.events"
+	url = "/history"
+	weight = 3
 
 #[[menu.main]]
 	#name = "Pagini Personale"
@@ -79,11 +79,17 @@ style = "default"
 	url = "/olimp"
 	weight = 4
 
+[[menu.main]]
+	name = "Concursuri"
+	parent = "menu.events"
+	url = "/concursuri"
+	weight = 4
+
 [params]
 	logo = "img/stim_landsc.png"
 	logo_small = "img/stim_landsc.png"
 	contact_url = "/contact"
-	mainSections = ["members", "olimp", "projects"]
+	mainSections = ["members", "olimp", "projects", "concursuri"]
 
 [params.topbar]
 	enable = true
