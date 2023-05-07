@@ -128,7 +128,7 @@ style = "default"
 [[menu.topbar]]
 	weight = 2
 	name = "Facebook"
-	url = "https://www.facebook.com/profile.php?id=100091323421263"
+	url = "https://www.facebook.com/profile.php?id=100091080968315"
 	pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
